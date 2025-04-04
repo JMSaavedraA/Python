@@ -1,0 +1,2 @@
+library(IRkernel)
+IRkernel::installspec()
